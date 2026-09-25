@@ -33,7 +33,7 @@ Cada serviço continua no **seu próprio repositório**; aqui eles entram como [
 ## Clonando
 
 ```bash
-git clone --recurse-submodules <url-deste-repo>
+git clone --recurse-submodules https://github.com/gabriel-sartoretto/kafka-rabbitmq-banking.git
 # ou, se já clonou sem os submodules:
 git submodule update --init --recursive
 ```
