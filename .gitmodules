@@ -1,0 +1,12 @@
+[submodule "mensageria-banking-audit"]
+	path = mensageria-banking-audit
+	url = https://github.com/gabriel-sartoretto/mensageria-banking-audit.git
+	branch = master
+[submodule "mensageria-banking-service"]
+	path = mensageria-banking-service
+	url = https://github.com/gabriel-sartoretto/mensageria-banking-service.git
+	branch = master
+[submodule "mensageria-banking-validation"]
+	path = mensageria-banking-validation
+	url = https://github.com/gabriel-sartoretto/mensageria-banking-validation.git
+	branch = master
